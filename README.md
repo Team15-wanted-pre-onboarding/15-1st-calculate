@@ -8,7 +8,6 @@
 
 - 첫번째 계산기 - 조은총, 전수현
 - 두번째 계산기 - 최병현, 조용우
-- 배포주소 : http://exchangerating.s3-website.ap-northeast-2.amazonaws.com/
 - Front-end: React(Funiction-Component)\_reactr-router-dom(V6), CSS Module, JavaScript(ES6)
 - 협업툴: Slack, Notion, Github
 
